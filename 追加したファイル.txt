@@ -1,0 +1,1 @@
+このファイルは、feature/xxxブランチ作成した後にfeature/xxxで追加したファイルです。
